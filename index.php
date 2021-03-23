@@ -13,6 +13,9 @@ and open the template in the editor.
         <link href="./webroot/css/estilo1.css" rel="stylesheet" type="text/css">
     </head>
     <body>
+      
+        <a class="home" href="../index.php"><img src="./images/casa.png"/></a>    
+        
            <h1>Desarrollo web en entono servidor</h1>
            
            <a href="./index2.html">
@@ -26,21 +29,17 @@ and open the template in the editor.
            <h2>TEMA 2 - Instalacion, Configuracion y Documentacion del entorno de desarollo y de explotacion</h2>
            </div>
            </a>
-          
            <a href="../proyectoTema3/index.php">
            <div>
-           <h2>TEMA 3 - Caracteristicas del lenguaje de php</h2>
+           <h2>TEMA 3 - Caracteristicas del lenguaje PHP </h2>
            </div>
            </a>
 
-
     </body>
-    
-               
-           
+
         <footer>
             <p class="footer"> 2020-21 I.E.S. Los sauces. ©Todos los derechos reservados. Cristina Manjon Lacalle <p> 
-                <a href="https://github.com/CristinaMLSauces" target="_blank"> <img src="images/git.png"/> </a>
+                <a href="https://github.com/CristinaMLSauces" target="_blank"> <img src="images/git.png" class="git"/> </a>
         </footer>
       
 </html>
