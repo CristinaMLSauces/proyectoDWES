@@ -39,6 +39,10 @@ and open the template in the editor.
            
            <a href="../proyectoTema4/index.php">
            <div>
+           <h2>TEMA 4 - Tecnicas de acceso a datos en php </h2>
+           </div>
+           </a>
+
            <h2>TEMA 4 - Tecnica de acceso a Datos en PHP </h2>
            </div>
            </a>
