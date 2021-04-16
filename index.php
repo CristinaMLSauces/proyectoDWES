@@ -43,13 +43,9 @@ and open the template in the editor.
            </div>
            </a>
 
-           <h2>TEMA 4 - Tecnica de acceso a Datos en PHP </h2>
-           </div>
-           </a>
-           
-           <a href="../proyectoTema4/index.php">
+           <a href="../LoginLogoffTema5/codigoPHP/login.php">
            <div>
-           <h2>TEMA 5 - LoginLogout </h2>
+           <h2> LoginLogoff Tema 5</h2>
            </div>
            </a>
     
